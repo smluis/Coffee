@@ -1,6 +1,4 @@
-HEAD:<name-of-remote-branch>
-
-#Coffee is great.
+# Coffee is great.
 
 *Coffee*
 The finest of the beverages. 
