@@ -1,3 +1,5 @@
+HEAD:<name-of-remote-branch>
+
 #Coffee is great.
 
 *Coffee*
